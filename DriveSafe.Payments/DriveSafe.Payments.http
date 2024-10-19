@@ -1,0 +1,6 @@
+@DriveSafe.Payments_HostAddress = http://localhost:5129
+
+GET {{DriveSafe.Payments_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

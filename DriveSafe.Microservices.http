@@ -1,0 +1,6 @@
+@DriveSafe.Microservices_HostAddress = http://localhost:5259
+
+GET {{DriveSafe.Microservices_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

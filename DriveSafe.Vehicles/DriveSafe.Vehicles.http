@@ -1,0 +1,6 @@
+@DriveSafe.Vehicles_HostAddress = http://localhost:5260
+
+GET {{DriveSafe.Vehicles_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
